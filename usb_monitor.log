@@ -1,0 +1,742 @@
+2024-12-21 15:30:44,169 - INFO - Logging setup complete
+2024-12-21 15:30:44,169 - INFO - Starting USB monitor...
+2024-12-21 15:30:44,169 - INFO - USB monitor window created
+2024-12-21 15:30:44,493 - INFO - Logging setup complete
+2024-12-21 15:30:44,493 - INFO - Starting USB monitor...
+2024-12-21 15:30:44,493 - INFO - USB monitor window created
+2024-12-21 15:30:51,372 - DEBUG - Device arrival detected
+2024-12-21 15:30:51,372 - DEBUG - Volume device detected
+2024-12-21 15:30:51,373 - DEBUG - Checking drive type for D:\
+2024-12-21 15:30:51,374 - DEBUG - Drive type: 2
+2024-12-21 15:30:51,374 - INFO - USB drive detected: D:\
+2024-12-21 15:30:51,375 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:30:51,383 - INFO - Process started with PID: 2236
+2024-12-21 15:30:51,538 - DEBUG - Device arrival detected
+2024-12-21 15:30:51,538 - DEBUG - Volume device detected
+2024-12-21 15:30:51,540 - DEBUG - Checking drive type for D:\
+2024-12-21 15:30:51,541 - DEBUG - Drive type: 2
+2024-12-21 15:30:51,541 - INFO - USB drive detected: D:\
+2024-12-21 15:30:51,542 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:30:51,556 - INFO - Process started with PID: 2492
+2024-12-21 15:31:30,172 - INFO - Logging setup complete
+2024-12-21 15:31:30,173 - INFO - Starting USB monitor...
+2024-12-21 15:31:30,178 - INFO - USB monitor window created
+2024-12-21 15:31:35,816 - DEBUG - Device arrival detected
+2024-12-21 15:31:35,816 - DEBUG - Volume device detected
+2024-12-21 15:31:35,817 - DEBUG - Checking drive type for D:\
+2024-12-21 15:31:35,817 - DEBUG - Drive type: 2
+2024-12-21 15:31:35,817 - INFO - USB drive detected: D:\
+2024-12-21 15:31:35,817 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:31:35,828 - INFO - Process started with PID: 8784
+2024-12-21 15:31:35,946 - DEBUG - Device arrival detected
+2024-12-21 15:31:35,946 - DEBUG - Volume device detected
+2024-12-21 15:31:35,946 - DEBUG - Checking drive type for D:\
+2024-12-21 15:31:35,946 - DEBUG - Drive type: 2
+2024-12-21 15:31:35,946 - INFO - USB drive detected: D:\
+2024-12-21 15:31:35,947 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:31:35,952 - INFO - Process started with PID: 16624
+2024-12-21 15:31:36,084 - DEBUG - Device arrival detected
+2024-12-21 15:31:36,084 - DEBUG - Volume device detected
+2024-12-21 15:31:36,085 - DEBUG - Checking drive type for D:\
+2024-12-21 15:31:36,087 - DEBUG - Drive type: 2
+2024-12-21 15:31:36,087 - INFO - USB drive detected: D:\
+2024-12-21 15:31:36,089 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:31:36,103 - INFO - Process started with PID: 14308
+2024-12-21 15:31:50,519 - DEBUG - Device arrival detected
+2024-12-21 15:31:50,519 - DEBUG - Volume device detected
+2024-12-21 15:31:50,519 - DEBUG - Checking drive type for D:\
+2024-12-21 15:31:50,520 - DEBUG - Drive type: 2
+2024-12-21 15:31:50,520 - INFO - USB drive detected: D:\
+2024-12-21 15:31:50,520 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:31:50,525 - INFO - Process started with PID: 9628
+2024-12-21 15:31:50,649 - DEBUG - Device arrival detected
+2024-12-21 15:31:50,650 - DEBUG - Volume device detected
+2024-12-21 15:31:50,650 - DEBUG - Checking drive type for D:\
+2024-12-21 15:31:50,651 - DEBUG - Drive type: 2
+2024-12-21 15:31:50,651 - INFO - USB drive detected: D:\
+2024-12-21 15:31:50,651 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:31:50,657 - INFO - Process started with PID: 4064
+2024-12-21 15:31:50,825 - DEBUG - Device arrival detected
+2024-12-21 15:31:50,825 - DEBUG - Volume device detected
+2024-12-21 15:31:50,825 - DEBUG - Checking drive type for D:\
+2024-12-21 15:31:50,825 - DEBUG - Drive type: 2
+2024-12-21 15:31:50,827 - INFO - USB drive detected: D:\
+2024-12-21 15:31:50,827 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:31:50,834 - INFO - Process started with PID: 11916
+2024-12-21 15:32:04,402 - DEBUG - Device arrival detected
+2024-12-21 15:32:04,402 - DEBUG - Volume device detected
+2024-12-21 15:32:04,402 - DEBUG - Checking drive type for D:\
+2024-12-21 15:32:04,403 - DEBUG - Drive type: 2
+2024-12-21 15:32:04,403 - INFO - USB drive detected: D:\
+2024-12-21 15:32:04,404 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:32:04,408 - INFO - Process started with PID: 2672
+2024-12-21 15:32:04,543 - DEBUG - Device arrival detected
+2024-12-21 15:32:04,543 - DEBUG - Volume device detected
+2024-12-21 15:32:04,543 - DEBUG - Checking drive type for D:\
+2024-12-21 15:32:04,544 - DEBUG - Drive type: 2
+2024-12-21 15:32:04,544 - INFO - USB drive detected: D:\
+2024-12-21 15:32:04,544 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:32:04,550 - INFO - Process started with PID: 16940
+2024-12-21 15:32:04,707 - DEBUG - Device arrival detected
+2024-12-21 15:32:04,707 - DEBUG - Volume device detected
+2024-12-21 15:32:04,707 - DEBUG - Checking drive type for D:\
+2024-12-21 15:32:04,707 - DEBUG - Drive type: 2
+2024-12-21 15:32:04,708 - INFO - USB drive detected: D:\
+2024-12-21 15:32:04,708 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:32:04,711 - INFO - Process started with PID: 15628
+2024-12-21 15:32:32,344 - INFO - Logging setup complete
+2024-12-21 15:32:32,344 - INFO - Starting USB monitor...
+2024-12-21 15:32:32,347 - INFO - USB monitor window created
+2024-12-21 15:32:40,384 - DEBUG - Device arrival detected
+2024-12-21 15:32:40,384 - DEBUG - Volume device detected
+2024-12-21 15:32:40,384 - DEBUG - Checking drive type for D:\
+2024-12-21 15:32:40,384 - DEBUG - Drive type: 2
+2024-12-21 15:32:40,384 - INFO - USB drive detected: D:\
+2024-12-21 15:32:40,386 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:32:40,396 - INFO - Process started with PID: 17888
+2024-12-21 15:32:40,550 - DEBUG - Device arrival detected
+2024-12-21 15:32:40,551 - DEBUG - Volume device detected
+2024-12-21 15:32:40,551 - DEBUG - Checking drive type for D:\
+2024-12-21 15:32:40,551 - DEBUG - Drive type: 2
+2024-12-21 15:32:40,551 - INFO - USB drive detected: D:\
+2024-12-21 15:32:40,551 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:32:40,556 - INFO - Process started with PID: 12276
+2024-12-21 15:32:40,666 - DEBUG - Device arrival detected
+2024-12-21 15:32:40,667 - DEBUG - Volume device detected
+2024-12-21 15:32:40,667 - DEBUG - Checking drive type for D:\
+2024-12-21 15:32:40,669 - DEBUG - Drive type: 2
+2024-12-21 15:32:40,669 - INFO - USB drive detected: D:\
+2024-12-21 15:32:40,670 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:32:40,677 - INFO - Process started with PID: 4356
+2024-12-21 15:33:42,908 - DEBUG - Device arrival detected
+2024-12-21 15:33:42,908 - DEBUG - Volume device detected
+2024-12-21 15:33:42,908 - DEBUG - Checking drive type for D:\
+2024-12-21 15:33:42,909 - DEBUG - Drive type: 2
+2024-12-21 15:33:42,909 - INFO - USB drive detected: D:\
+2024-12-21 15:33:42,910 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:33:42,915 - INFO - Process started with PID: 7772
+2024-12-21 15:33:57,074 - INFO - Logging setup complete
+2024-12-21 15:33:57,075 - INFO - Starting USB monitor...
+2024-12-21 15:33:57,078 - INFO - USB monitor window created
+2024-12-21 15:34:12,976 - DEBUG - Device arrival detected
+2024-12-21 15:34:12,976 - DEBUG - Volume device detected
+2024-12-21 15:34:12,976 - DEBUG - Checking drive type for D:\
+2024-12-21 15:34:12,976 - DEBUG - Drive type: 2
+2024-12-21 15:34:12,976 - INFO - USB drive detected: D:\
+2024-12-21 15:34:12,978 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:34:12,986 - INFO - Process started with PID: 16392
+2024-12-21 15:35:27,149 - DEBUG - Device arrival detected
+2024-12-21 15:35:27,149 - DEBUG - Volume device detected
+2024-12-21 15:35:27,149 - DEBUG - Checking drive type for D:\
+2024-12-21 15:35:27,149 - DEBUG - Drive type: 2
+2024-12-21 15:35:27,149 - INFO - USB drive detected: D:\
+2024-12-21 15:35:27,151 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:35:27,154 - INFO - Process started with PID: 15040
+2024-12-21 15:42:55,267 - DEBUG - Device arrival detected
+2024-12-21 15:42:55,267 - DEBUG - Volume device detected
+2024-12-21 15:42:55,267 - DEBUG - Checking drive type for D:\
+2024-12-21 15:42:55,267 - DEBUG - Drive type: 2
+2024-12-21 15:42:55,267 - INFO - USB drive detected: D:\
+2024-12-21 15:42:55,267 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:42:55,273 - INFO - Process started with PID: 8904
+2024-12-21 15:43:27,843 - INFO - Logging setup complete
+2024-12-21 15:43:27,843 - INFO - Starting USB monitor...
+2024-12-21 15:43:27,845 - INFO - USB monitor window created
+2024-12-21 15:43:30,970 - DEBUG - Device arrival detected
+2024-12-21 15:43:30,970 - DEBUG - Volume device detected
+2024-12-21 15:43:30,970 - DEBUG - Checking drive type for D:\
+2024-12-21 15:43:30,970 - DEBUG - Drive type: 2
+2024-12-21 15:43:30,972 - INFO - USB drive detected: D:\
+2024-12-21 15:43:30,972 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:43:30,983 - INFO - Process started with PID: 4172
+2024-12-21 15:43:31,171 - DEBUG - Device arrival detected
+2024-12-21 15:43:31,172 - DEBUG - Volume device detected
+2024-12-21 15:43:31,174 - DEBUG - Checking drive type for D:\
+2024-12-21 15:43:31,174 - DEBUG - Drive type: 2
+2024-12-21 15:43:31,174 - INFO - USB drive detected: D:\
+2024-12-21 15:43:31,175 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:43:31,185 - INFO - Process started with PID: 11668
+2024-12-21 15:45:58,206 - DEBUG - Device arrival detected
+2024-12-21 15:45:58,206 - DEBUG - Volume device detected
+2024-12-21 15:45:58,206 - DEBUG - Checking drive type for D:\
+2024-12-21 15:45:58,206 - DEBUG - Drive type: 2
+2024-12-21 15:45:58,206 - INFO - USB drive detected: D:\
+2024-12-21 15:45:58,206 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:45:58,211 - INFO - Process started with PID: 15368
+2024-12-21 15:48:11,604 - INFO - Logging setup complete
+2024-12-21 15:48:11,604 - INFO - Starting USB monitor...
+2024-12-21 15:48:11,604 - INFO - USB monitor window created
+2024-12-21 15:48:18,450 - DEBUG - Device arrival detected
+2024-12-21 15:48:18,450 - DEBUG - Volume device detected
+2024-12-21 15:48:18,450 - DEBUG - Checking drive type for D:\
+2024-12-21 15:48:18,450 - DEBUG - Drive type: 2
+2024-12-21 15:48:18,450 - INFO - USB drive detected: D:\
+2024-12-21 15:48:18,450 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:48:18,450 - ERROR - rickroll.py not found at: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:48:18,657 - DEBUG - Device arrival detected
+2024-12-21 15:48:18,658 - DEBUG - Volume device detected
+2024-12-21 15:48:18,658 - DEBUG - Checking drive type for D:\
+2024-12-21 15:48:18,658 - DEBUG - Drive type: 2
+2024-12-21 15:48:18,659 - INFO - USB drive detected: D:\
+2024-12-21 15:48:18,660 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:48:18,675 - INFO - Process started with PID: 15368
+2024-12-21 15:50:00,769 - INFO - Logging setup complete
+2024-12-21 15:50:00,769 - INFO - Starting USB monitor...
+2024-12-21 15:50:00,769 - INFO - USB monitor window created
+2024-12-21 15:50:06,606 - DEBUG - Device arrival detected
+2024-12-21 15:50:06,607 - DEBUG - Volume device detected
+2024-12-21 15:50:06,607 - DEBUG - Checking drive type for D:\
+2024-12-21 15:50:06,607 - DEBUG - Drive type: 2
+2024-12-21 15:50:06,607 - INFO - USB drive detected: D:\
+2024-12-21 15:50:06,608 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:50:06,619 - INFO - Process started with PID: 7412
+2024-12-21 15:50:07,155 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:50:08,163 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:50:08,194 - DEBUG - Device arrival detected
+2024-12-21 15:50:08,194 - DEBUG - Volume device detected
+2024-12-21 15:50:08,194 - DEBUG - Checking drive type for D:\
+2024-12-21 15:50:08,194 - DEBUG - Drive type: 2
+2024-12-21 15:50:08,194 - INFO - USB drive detected: D:\
+2024-12-21 15:50:08,194 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:50:08,202 - INFO - Process started with PID: 9440
+2024-12-21 15:50:09,131 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:50:10,172 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:50:10,302 - DEBUG - Device arrival detected
+2024-12-21 15:50:10,302 - DEBUG - Volume device detected
+2024-12-21 15:50:10,302 - DEBUG - Checking drive type for D:\
+2024-12-21 15:50:10,304 - DEBUG - Drive type: 2
+2024-12-21 15:50:10,304 - INFO - USB drive detected: D:\
+2024-12-21 15:50:10,305 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:50:10,310 - INFO - Process started with PID: 6576
+2024-12-21 15:50:53,799 - DEBUG - Device arrival detected
+2024-12-21 15:50:53,799 - DEBUG - Volume device detected
+2024-12-21 15:50:53,800 - DEBUG - Checking drive type for D:\
+2024-12-21 15:50:53,800 - DEBUG - Drive type: 2
+2024-12-21 15:50:53,800 - INFO - USB drive detected: D:\
+2024-12-21 15:50:53,800 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:50:53,804 - INFO - Process started with PID: 9588
+2024-12-21 15:50:53,806 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:50:54,838 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:50:54,975 - DEBUG - Device arrival detected
+2024-12-21 15:50:54,975 - DEBUG - Volume device detected
+2024-12-21 15:50:54,975 - DEBUG - Checking drive type for D:\
+2024-12-21 15:50:54,975 - DEBUG - Drive type: 2
+2024-12-21 15:50:54,975 - INFO - USB drive detected: D:\
+2024-12-21 15:50:54,976 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:50:54,980 - INFO - Process started with PID: 12908
+2024-12-21 15:50:54,982 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:50:56,002 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:50:56,180 - DEBUG - Device arrival detected
+2024-12-21 15:50:56,180 - DEBUG - Volume device detected
+2024-12-21 15:50:56,180 - DEBUG - Checking drive type for D:\
+2024-12-21 15:50:56,181 - DEBUG - Drive type: 2
+2024-12-21 15:50:56,181 - INFO - USB drive detected: D:\
+2024-12-21 15:50:56,182 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:50:56,188 - INFO - Process started with PID: 2228
+2024-12-21 15:52:26,378 - DEBUG - Device arrival detected
+2024-12-21 15:52:26,378 - DEBUG - Volume device detected
+2024-12-21 15:52:26,379 - DEBUG - Checking drive type for D:\
+2024-12-21 15:52:26,379 - DEBUG - Drive type: 2
+2024-12-21 15:52:26,379 - INFO - USB drive detected: D:\
+2024-12-21 15:52:26,379 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:52:26,384 - INFO - Process started with PID: 9360
+2024-12-21 15:52:26,385 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:52:27,391 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:52:27,499 - DEBUG - Device arrival detected
+2024-12-21 15:52:27,499 - DEBUG - Volume device detected
+2024-12-21 15:52:27,499 - DEBUG - Checking drive type for D:\
+2024-12-21 15:52:27,499 - DEBUG - Drive type: 2
+2024-12-21 15:52:27,500 - INFO - USB drive detected: D:\
+2024-12-21 15:52:27,500 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:52:27,506 - INFO - Process started with PID: 160
+2024-12-21 15:52:27,507 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:52:28,536 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:52:28,697 - DEBUG - Device arrival detected
+2024-12-21 15:52:28,697 - DEBUG - Volume device detected
+2024-12-21 15:52:28,698 - DEBUG - Checking drive type for D:\
+2024-12-21 15:52:28,698 - DEBUG - Drive type: 2
+2024-12-21 15:52:28,698 - INFO - USB drive detected: D:\
+2024-12-21 15:52:28,698 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:52:28,702 - INFO - Process started with PID: 11652
+2024-12-21 15:54:28,342 - INFO - Logging setup complete
+2024-12-21 15:54:28,343 - INFO - Starting USB monitor...
+2024-12-21 15:54:28,346 - INFO - USB monitor window created
+2024-12-21 15:54:32,171 - DEBUG - Device arrival detected
+2024-12-21 15:54:32,171 - DEBUG - Volume device detected
+2024-12-21 15:54:32,172 - DEBUG - Checking drive type for D:\
+2024-12-21 15:54:32,172 - DEBUG - Drive type: 2
+2024-12-21 15:54:32,172 - INFO - USB drive detected: D:\
+2024-12-21 15:54:32,173 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:54:32,183 - INFO - Process started with PID: 17784
+2024-12-21 15:54:32,644 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:54:33,679 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:54:33,872 - DEBUG - Device arrival detected
+2024-12-21 15:54:33,872 - DEBUG - Volume device detected
+2024-12-21 15:54:33,872 - DEBUG - Checking drive type for D:\
+2024-12-21 15:54:33,872 - DEBUG - Drive type: 2
+2024-12-21 15:54:33,872 - INFO - USB drive detected: D:\
+2024-12-21 15:54:33,873 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:54:33,873 - INFO - Process started with PID: 5808
+2024-12-21 15:54:33,873 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:54:34,901 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:54:35,084 - DEBUG - Device arrival detected
+2024-12-21 15:54:35,085 - DEBUG - Volume device detected
+2024-12-21 15:54:35,085 - DEBUG - Checking drive type for D:\
+2024-12-21 15:54:35,085 - DEBUG - Drive type: 2
+2024-12-21 15:54:35,086 - INFO - USB drive detected: D:\
+2024-12-21 15:54:35,086 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:54:35,091 - INFO - Process started with PID: 11320
+2024-12-21 15:54:35,092 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 15:54:36,098 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 404 207
+2024-12-21 15:54:36,280 - DEBUG - Device arrival detected
+2024-12-21 15:54:36,280 - DEBUG - Volume device detected
+2024-12-21 15:54:36,280 - DEBUG - Checking drive type for D:\
+2024-12-21 15:54:36,280 - DEBUG - Drive type: 2
+2024-12-21 15:54:36,281 - INFO - USB drive detected: D:\
+2024-12-21 15:54:36,281 - INFO - Starting rickroll: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 15:54:36,286 - INFO - Process started with PID: 9564
+2024-12-21 15:59:48,182 - INFO - Logging setup complete
+2024-12-21 15:59:48,182 - INFO - Starting USB monitor...
+2024-12-21 15:59:48,185 - INFO - USB monitor window created
+2024-12-21 16:00:07,910 - INFO - Logging setup complete
+2024-12-21 16:00:07,910 - INFO - Starting USB monitor...
+2024-12-21 16:00:07,914 - INFO - USB monitor window created
+2024-12-21 16:00:15,356 - DEBUG - Device arrival detected
+2024-12-21 16:00:15,356 - DEBUG - Volume device detected
+2024-12-21 16:00:15,357 - DEBUG - Checking drive type for D:\
+2024-12-21 16:00:15,357 - DEBUG - Drive type: 2
+2024-12-21 16:00:15,357 - INFO - USB drive detected: D:\
+2024-12-21 16:00:15,403 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:00:15,403 - INFO - Starting command server on port 8080
+2024-12-21 16:00:15,551 - DEBUG - Device arrival detected
+2024-12-21 16:00:15,551 - DEBUG - Volume device detected
+2024-12-21 16:00:15,551 - DEBUG - Checking drive type for D:\
+2024-12-21 16:00:15,551 - DEBUG - Drive type: 2
+2024-12-21 16:00:15,551 - INFO - USB drive detected: D:\
+2024-12-21 16:00:15,633 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:01:49,826 - INFO - Logging setup complete
+2024-12-21 16:01:49,827 - INFO - Starting USB monitor...
+2024-12-21 16:01:49,829 - INFO - USB monitor window created
+2024-12-21 16:01:55,560 - DEBUG - Device arrival detected
+2024-12-21 16:01:55,560 - DEBUG - Volume device detected
+2024-12-21 16:01:55,560 - DEBUG - Checking drive type for D:\
+2024-12-21 16:01:55,560 - DEBUG - Drive type: 2
+2024-12-21 16:01:55,561 - INFO - USB drive detected: D:\
+2024-12-21 16:01:55,606 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:01:55,785 - DEBUG - Device arrival detected
+2024-12-21 16:01:55,788 - DEBUG - Volume device detected
+2024-12-21 16:01:55,788 - DEBUG - Checking drive type for D:\
+2024-12-21 16:01:55,789 - DEBUG - Drive type: 2
+2024-12-21 16:01:55,789 - INFO - USB drive detected: D:\
+2024-12-21 16:01:55,790 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:01:55,986 - DEBUG - Device arrival detected
+2024-12-21 16:01:55,986 - DEBUG - Volume device detected
+2024-12-21 16:01:55,986 - DEBUG - Checking drive type for D:\
+2024-12-21 16:01:55,986 - DEBUG - Drive type: 2
+2024-12-21 16:01:55,986 - INFO - USB drive detected: D:\
+2024-12-21 16:01:55,987 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:03:59,272 - INFO - Logging setup complete
+2024-12-21 16:03:59,273 - INFO - Starting USB monitor...
+2024-12-21 16:03:59,276 - INFO - USB monitor window created
+2024-12-21 16:04:03,913 - DEBUG - Device arrival detected
+2024-12-21 16:04:03,913 - DEBUG - Volume device detected
+2024-12-21 16:04:03,913 - DEBUG - Checking drive type for D:\
+2024-12-21 16:04:03,913 - DEBUG - Drive type: 2
+2024-12-21 16:04:03,913 - INFO - USB drive detected: D:\
+2024-12-21 16:04:04,147 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:04:04,315 - DEBUG - Device arrival detected
+2024-12-21 16:04:04,315 - DEBUG - Volume device detected
+2024-12-21 16:04:04,315 - DEBUG - Checking drive type for D:\
+2024-12-21 16:04:04,315 - DEBUG - Drive type: 2
+2024-12-21 16:04:04,315 - INFO - USB drive detected: D:\
+2024-12-21 16:04:04,316 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:04:04,419 - DEBUG - Device arrival detected
+2024-12-21 16:04:04,420 - DEBUG - Volume device detected
+2024-12-21 16:04:04,420 - DEBUG - Checking drive type for D:\
+2024-12-21 16:04:04,420 - DEBUG - Drive type: 2
+2024-12-21 16:04:04,420 - INFO - USB drive detected: D:\
+2024-12-21 16:04:04,421 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:04:04,561 - DEBUG - Device arrival detected
+2024-12-21 16:04:04,561 - DEBUG - Volume device detected
+2024-12-21 16:04:04,561 - DEBUG - Checking drive type for D:\
+2024-12-21 16:04:04,561 - DEBUG - Drive type: 2
+2024-12-21 16:04:04,561 - INFO - USB drive detected: D:\
+2024-12-21 16:04:04,562 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:05:11,938 - DEBUG - Device arrival detected
+2024-12-21 16:05:11,938 - DEBUG - Volume device detected
+2024-12-21 16:05:11,938 - DEBUG - Checking drive type for D:\
+2024-12-21 16:05:11,938 - DEBUG - Drive type: 2
+2024-12-21 16:05:11,938 - INFO - USB drive detected: D:\
+2024-12-21 16:05:11,940 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:05:11,940 - INFO - Starting command server on port 8080
+2024-12-21 16:05:52,284 - DEBUG - Device arrival detected
+2024-12-21 16:05:52,284 - DEBUG - Volume device detected
+2024-12-21 16:05:52,284 - DEBUG - Checking drive type for D:\
+2024-12-21 16:05:52,284 - DEBUG - Drive type: 2
+2024-12-21 16:05:52,284 - INFO - USB drive detected: D:\
+2024-12-21 16:05:52,284 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:06:08,561 - INFO - Logging setup complete
+2024-12-21 16:06:08,561 - INFO - Starting USB monitor...
+2024-12-21 16:06:08,563 - INFO - USB monitor window created
+2024-12-21 16:06:15,811 - DEBUG - Device arrival detected
+2024-12-21 16:06:15,811 - DEBUG - Volume device detected
+2024-12-21 16:06:15,811 - DEBUG - Checking drive type for D:\
+2024-12-21 16:06:15,811 - DEBUG - Drive type: 2
+2024-12-21 16:06:15,811 - INFO - USB drive detected: D:\
+2024-12-21 16:06:16,042 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:06:16,213 - DEBUG - Device arrival detected
+2024-12-21 16:06:16,213 - DEBUG - Volume device detected
+2024-12-21 16:06:16,213 - DEBUG - Checking drive type for D:\
+2024-12-21 16:06:16,213 - DEBUG - Drive type: 2
+2024-12-21 16:06:16,213 - INFO - USB drive detected: D:\
+2024-12-21 16:06:16,214 - ERROR - Error launching rickroll.py: name 'drive_letter' is not defined
+2024-12-21 16:11:19,945 - INFO - Logging setup complete
+2024-12-21 16:11:19,945 - INFO - Starting USB monitor...
+2024-12-21 16:11:19,948 - INFO - USB monitor window created
+2024-12-21 16:13:49,529 - INFO - Logging setup complete
+2024-12-21 16:13:49,529 - INFO - Starting USB monitor...
+2024-12-21 16:13:49,542 - INFO - USB monitor window created
+2024-12-21 16:14:02,306 - DEBUG - Device arrival detected
+2024-12-21 16:14:02,306 - DEBUG - Volume device detected
+2024-12-21 16:14:02,306 - DEBUG - Checking drive type for D:\
+2024-12-21 16:14:02,307 - DEBUG - Drive type: 2
+2024-12-21 16:14:02,307 - INFO - USB drive detected: D:\
+2024-12-21 16:14:02,362 - INFO - Starting command server on port 8080
+2024-12-21 16:14:02,520 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:16:19,391 - INFO - Logging setup complete
+2024-12-21 16:16:19,392 - INFO - Starting USB monitor...
+2024-12-21 16:16:19,396 - INFO - USB monitor window created
+2024-12-21 16:16:26,130 - DEBUG - Device arrival detected
+2024-12-21 16:16:26,130 - DEBUG - Volume device detected
+2024-12-21 16:16:26,130 - DEBUG - Checking drive type for D:\
+2024-12-21 16:16:26,130 - DEBUG - Drive type: 2
+2024-12-21 16:16:26,131 - INFO - USB drive detected: D:\
+2024-12-21 16:16:26,734 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:16:27,749 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:16:27,749 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:16:28,764 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:16:28,837 - DEBUG - Device arrival detected
+2024-12-21 16:16:28,838 - DEBUG - Volume device detected
+2024-12-21 16:16:28,839 - DEBUG - Checking drive type for D:\
+2024-12-21 16:16:28,839 - DEBUG - Drive type: 2
+2024-12-21 16:16:28,840 - INFO - USB drive detected: D:\
+2024-12-21 16:16:28,842 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:18:54,353 - INFO - Logging setup complete
+2024-12-21 16:18:54,354 - INFO - Starting USB monitor...
+2024-12-21 16:18:54,359 - INFO - USB monitor window created
+2024-12-21 16:19:00,787 - DEBUG - Device arrival detected
+2024-12-21 16:19:00,787 - DEBUG - Volume device detected
+2024-12-21 16:19:00,787 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:00,787 - DEBUG - Drive type: 2
+2024-12-21 16:19:00,787 - INFO - USB drive detected: D:\
+2024-12-21 16:19:00,798 - INFO - Rickroll process started successfully with PID: 12740
+2024-12-21 16:19:01,300 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:19:02,308 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:19:02,310 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:19:03,337 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:19:03,378 - DEBUG - Device arrival detected
+2024-12-21 16:19:03,378 - DEBUG - Volume device detected
+2024-12-21 16:19:03,378 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:03,382 - DEBUG - Drive type: 2
+2024-12-21 16:19:03,382 - INFO - USB drive detected: D:\
+2024-12-21 16:19:03,382 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:19:04,406 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:19:04,407 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:19:05,426 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:19:05,586 - DEBUG - Device arrival detected
+2024-12-21 16:19:05,586 - DEBUG - Volume device detected
+2024-12-21 16:19:05,587 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:05,587 - DEBUG - Drive type: 2
+2024-12-21 16:19:05,587 - INFO - USB drive detected: D:\
+2024-12-21 16:19:05,588 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:19:15,210 - DEBUG - Device arrival detected
+2024-12-21 16:19:15,210 - DEBUG - Volume device detected
+2024-12-21 16:19:15,210 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:15,210 - DEBUG - Drive type: 2
+2024-12-21 16:19:15,210 - INFO - USB drive detected: D:\
+2024-12-21 16:19:15,210 - INFO - Skipping launch due to cooldown
+2024-12-21 16:19:15,385 - DEBUG - Device arrival detected
+2024-12-21 16:19:15,385 - DEBUG - Volume device detected
+2024-12-21 16:19:15,385 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:15,385 - DEBUG - Drive type: 2
+2024-12-21 16:19:15,388 - INFO - USB drive detected: D:\
+2024-12-21 16:19:15,389 - INFO - Skipping launch due to cooldown
+2024-12-21 16:19:15,552 - DEBUG - Device arrival detected
+2024-12-21 16:19:15,552 - DEBUG - Volume device detected
+2024-12-21 16:19:15,552 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:15,552 - DEBUG - Drive type: 2
+2024-12-21 16:19:15,552 - INFO - USB drive detected: D:\
+2024-12-21 16:19:15,552 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:19:27,284 - DEBUG - Device arrival detected
+2024-12-21 16:19:27,284 - DEBUG - Volume device detected
+2024-12-21 16:19:27,284 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:27,285 - DEBUG - Drive type: 2
+2024-12-21 16:19:27,285 - INFO - USB drive detected: D:\
+2024-12-21 16:19:27,285 - INFO - Skipping launch due to cooldown
+2024-12-21 16:19:27,467 - DEBUG - Device arrival detected
+2024-12-21 16:19:27,467 - DEBUG - Volume device detected
+2024-12-21 16:19:27,469 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:27,471 - DEBUG - Drive type: 2
+2024-12-21 16:19:27,472 - INFO - USB drive detected: D:\
+2024-12-21 16:19:27,473 - INFO - Skipping launch due to cooldown
+2024-12-21 16:19:27,615 - DEBUG - Device arrival detected
+2024-12-21 16:19:27,615 - DEBUG - Volume device detected
+2024-12-21 16:19:27,615 - DEBUG - Checking drive type for D:\
+2024-12-21 16:19:27,615 - DEBUG - Drive type: 2
+2024-12-21 16:19:27,615 - INFO - USB drive detected: D:\
+2024-12-21 16:19:27,617 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:19:58,256 - INFO - Logging setup complete
+2024-12-21 16:19:58,256 - INFO - Starting USB monitor...
+2024-12-21 16:19:58,261 - INFO - USB monitor window created
+2024-12-21 16:20:02,491 - DEBUG - Device arrival detected
+2024-12-21 16:20:02,491 - DEBUG - Volume device detected
+2024-12-21 16:20:02,491 - DEBUG - Checking drive type for D:\
+2024-12-21 16:20:02,491 - DEBUG - Drive type: 2
+2024-12-21 16:20:02,491 - INFO - USB drive detected: D:\
+2024-12-21 16:20:02,500 - INFO - Rickroll process started successfully with PID: 5808
+2024-12-21 16:20:03,042 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:20:04,056 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:20:04,059 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:20:05,088 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:20:05,285 - DEBUG - Device arrival detected
+2024-12-21 16:20:05,285 - DEBUG - Volume device detected
+2024-12-21 16:20:05,285 - DEBUG - Checking drive type for D:\
+2024-12-21 16:20:05,285 - DEBUG - Drive type: 2
+2024-12-21 16:20:05,285 - INFO - USB drive detected: D:\
+2024-12-21 16:20:05,289 - INFO - Rickroll process started successfully with PID: 17460
+2024-12-21 16:20:05,290 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:20:06,298 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:20:06,298 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:20:07,323 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:20:07,492 - DEBUG - Device arrival detected
+2024-12-21 16:20:07,493 - DEBUG - Volume device detected
+2024-12-21 16:20:07,493 - DEBUG - Checking drive type for D:\
+2024-12-21 16:20:07,493 - DEBUG - Drive type: 2
+2024-12-21 16:20:07,493 - INFO - USB drive detected: D:\
+2024-12-21 16:20:07,495 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:20:08,516 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:20:08,517 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:20:09,532 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:20:09,631 - DEBUG - Device arrival detected
+2024-12-21 16:20:09,631 - DEBUG - Volume device detected
+2024-12-21 16:20:09,631 - DEBUG - Checking drive type for D:\
+2024-12-21 16:20:09,631 - DEBUG - Drive type: 2
+2024-12-21 16:20:09,631 - INFO - USB drive detected: D:\
+2024-12-21 16:20:09,632 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:20:23,586 - DEBUG - Device arrival detected
+2024-12-21 16:20:23,586 - DEBUG - Volume device detected
+2024-12-21 16:20:23,586 - DEBUG - Checking drive type for D:\
+2024-12-21 16:20:23,586 - DEBUG - Drive type: 2
+2024-12-21 16:20:23,586 - INFO - USB drive detected: D:\
+2024-12-21 16:20:23,591 - INFO - Rickroll process started successfully with PID: 10356
+2024-12-21 16:20:23,593 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:20:24,608 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:20:24,610 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:20:25,639 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:20:25,714 - DEBUG - Device arrival detected
+2024-12-21 16:20:25,714 - DEBUG - Volume device detected
+2024-12-21 16:20:25,714 - DEBUG - Checking drive type for D:\
+2024-12-21 16:20:25,715 - DEBUG - Drive type: 2
+2024-12-21 16:20:25,715 - INFO - USB drive detected: D:\
+2024-12-21 16:20:25,715 - INFO - Skipping launch due to cooldown
+2024-12-21 16:20:25,915 - DEBUG - Device arrival detected
+2024-12-21 16:20:25,915 - DEBUG - Volume device detected
+2024-12-21 16:20:25,915 - DEBUG - Checking drive type for D:\
+2024-12-21 16:20:25,916 - DEBUG - Drive type: 2
+2024-12-21 16:20:25,916 - INFO - USB drive detected: D:\
+2024-12-21 16:20:25,916 - INFO - Skipping launch due to cooldown
+2024-12-21 16:20:26,116 - DEBUG - Device arrival detected
+2024-12-21 16:20:26,116 - DEBUG - Volume device detected
+2024-12-21 16:20:26,116 - DEBUG - Checking drive type for D:\
+2024-12-21 16:20:26,116 - DEBUG - Drive type: 2
+2024-12-21 16:20:26,117 - INFO - USB drive detected: D:\
+2024-12-21 16:20:26,118 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:21:16,229 - DEBUG - Device arrival detected
+2024-12-21 16:21:16,229 - DEBUG - Volume device detected
+2024-12-21 16:21:16,229 - DEBUG - Checking drive type for D:\
+2024-12-21 16:21:16,229 - DEBUG - Drive type: 2
+2024-12-21 16:21:16,229 - INFO - USB drive detected: D:\
+2024-12-21 16:21:16,234 - INFO - Rickroll process started successfully with PID: 17632
+2024-12-21 16:21:16,236 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:17,254 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:17,256 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:18,261 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:18,338 - DEBUG - Device arrival detected
+2024-12-21 16:21:18,338 - DEBUG - Volume device detected
+2024-12-21 16:21:18,338 - DEBUG - Checking drive type for D:\
+2024-12-21 16:21:18,338 - DEBUG - Drive type: 2
+2024-12-21 16:21:18,339 - INFO - USB drive detected: D:\
+2024-12-21 16:21:18,344 - INFO - Rickroll process started successfully with PID: 7892
+2024-12-21 16:21:18,346 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:19,362 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:19,365 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:20,374 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:20,546 - DEBUG - Device arrival detected
+2024-12-21 16:21:20,546 - DEBUG - Volume device detected
+2024-12-21 16:21:20,546 - DEBUG - Checking drive type for D:\
+2024-12-21 16:21:20,547 - DEBUG - Drive type: 2
+2024-12-21 16:21:20,547 - INFO - USB drive detected: D:\
+2024-12-21 16:21:20,549 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:21,583 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:21,585 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:22,608 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:22,761 - DEBUG - Device arrival detected
+2024-12-21 16:21:22,762 - DEBUG - Volume device detected
+2024-12-21 16:21:22,762 - DEBUG - Checking drive type for D:\
+2024-12-21 16:21:22,763 - DEBUG - Drive type: 2
+2024-12-21 16:21:22,764 - INFO - USB drive detected: D:\
+2024-12-21 16:21:22,766 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:21:50,258 - INFO - Logging setup complete
+2024-12-21 16:21:50,258 - INFO - Starting USB monitor...
+2024-12-21 16:21:50,264 - INFO - USB monitor window created
+2024-12-21 16:21:55,399 - DEBUG - Device arrival detected
+2024-12-21 16:21:55,399 - DEBUG - Volume device detected
+2024-12-21 16:21:55,399 - DEBUG - Checking drive type for D:\
+2024-12-21 16:21:55,400 - DEBUG - Drive type: 2
+2024-12-21 16:21:55,400 - INFO - USB drive detected: D:\
+2024-12-21 16:21:55,400 - ERROR - Rickroll script not found at: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 16:21:55,825 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:56,862 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:56,863 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:57,896 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:58,045 - DEBUG - Device arrival detected
+2024-12-21 16:21:58,045 - DEBUG - Volume device detected
+2024-12-21 16:21:58,046 - DEBUG - Checking drive type for D:\
+2024-12-21 16:21:58,046 - DEBUG - Drive type: 2
+2024-12-21 16:21:58,048 - INFO - USB drive detected: D:\
+2024-12-21 16:21:58,048 - ERROR - Rickroll script not found at: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 16:21:58,051 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:21:59,063 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:21:59,066 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:00,075 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:00,256 - DEBUG - Device arrival detected
+2024-12-21 16:22:00,260 - DEBUG - Volume device detected
+2024-12-21 16:22:00,261 - DEBUG - Checking drive type for D:\
+2024-12-21 16:22:00,261 - DEBUG - Drive type: 2
+2024-12-21 16:22:00,261 - INFO - USB drive detected: D:\
+2024-12-21 16:22:00,262 - ERROR - Rickroll script not found at: C:\Users\Vipul Yadav\Desktop\x9x8.vercel\rickroll.py
+2024-12-21 16:22:00,265 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:01,294 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:01,297 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:02,321 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:02,506 - DEBUG - Device arrival detected
+2024-12-21 16:22:02,507 - DEBUG - Volume device detected
+2024-12-21 16:22:02,507 - DEBUG - Checking drive type for D:\
+2024-12-21 16:22:02,507 - DEBUG - Drive type: 2
+2024-12-21 16:22:02,507 - INFO - USB drive detected: D:\
+2024-12-21 16:22:02,509 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:03,528 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:03,531 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:04,561 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:04,678 - DEBUG - Device arrival detected
+2024-12-21 16:22:04,679 - DEBUG - Volume device detected
+2024-12-21 16:22:04,680 - DEBUG - Checking drive type for D:\
+2024-12-21 16:22:04,680 - DEBUG - Drive type: 2
+2024-12-21 16:22:04,680 - INFO - USB drive detected: D:\
+2024-12-21 16:22:04,681 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:22:41,851 - INFO - Logging setup complete
+2024-12-21 16:22:41,851 - INFO - Starting USB monitor...
+2024-12-21 16:22:41,861 - INFO - USB monitor window created
+2024-12-21 16:22:50,612 - DEBUG - Device arrival detected
+2024-12-21 16:22:50,612 - DEBUG - Volume device detected
+2024-12-21 16:22:50,612 - DEBUG - Checking drive type for D:\
+2024-12-21 16:22:50,612 - DEBUG - Drive type: 2
+2024-12-21 16:22:50,612 - INFO - USB drive detected: D:\
+2024-12-21 16:22:50,622 - INFO - Rickroll process started successfully with PID: 11216
+2024-12-21 16:22:51,243 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:52,270 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:52,272 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:53,306 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:53,439 - DEBUG - Device arrival detected
+2024-12-21 16:22:53,439 - DEBUG - Volume device detected
+2024-12-21 16:22:53,439 - DEBUG - Checking drive type for D:\
+2024-12-21 16:22:53,440 - DEBUG - Drive type: 2
+2024-12-21 16:22:53,440 - INFO - USB drive detected: D:\
+2024-12-21 16:22:53,449 - INFO - Rickroll process started successfully with PID: 3904
+2024-12-21 16:22:53,451 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:54,471 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:54,472 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:55,477 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:55,628 - DEBUG - Device arrival detected
+2024-12-21 16:22:55,628 - DEBUG - Volume device detected
+2024-12-21 16:22:55,628 - DEBUG - Checking drive type for D:\
+2024-12-21 16:22:55,629 - DEBUG - Drive type: 2
+2024-12-21 16:22:55,629 - INFO - USB drive detected: D:\
+2024-12-21 16:22:55,634 - INFO - Rickroll process started successfully with PID: 11584
+2024-12-21 16:22:55,636 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:56,645 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:56,648 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:57,660 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:57,737 - DEBUG - Device arrival detected
+2024-12-21 16:22:57,737 - DEBUG - Volume device detected
+2024-12-21 16:22:57,737 - DEBUG - Checking drive type for D:\
+2024-12-21 16:22:57,737 - DEBUG - Drive type: 2
+2024-12-21 16:22:57,738 - INFO - USB drive detected: D:\
+2024-12-21 16:22:57,742 - INFO - Rickroll process started successfully with PID: 5108
+2024-12-21 16:22:57,744 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:58,749 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:58,750 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:22:59,773 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:22:59,844 - DEBUG - Device arrival detected
+2024-12-21 16:22:59,845 - DEBUG - Volume device detected
+2024-12-21 16:22:59,845 - DEBUG - Checking drive type for D:\
+2024-12-21 16:22:59,845 - DEBUG - Drive type: 2
+2024-12-21 16:22:59,845 - INFO - USB drive detected: D:\
+2024-12-21 16:22:59,847 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:23:00,852 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:23:00,853 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:23:01,864 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:23:01,957 - DEBUG - Device arrival detected
+2024-12-21 16:23:01,958 - DEBUG - Volume device detected
+2024-12-21 16:23:01,958 - DEBUG - Checking drive type for D:\
+2024-12-21 16:23:01,958 - DEBUG - Drive type: 2
+2024-12-21 16:23:01,958 - INFO - USB drive detected: D:\
+2024-12-21 16:23:01,959 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value
+2024-12-21 16:23:16,036 - DEBUG - Device arrival detected
+2024-12-21 16:23:16,036 - DEBUG - Volume device detected
+2024-12-21 16:23:16,036 - DEBUG - Checking drive type for D:\
+2024-12-21 16:23:16,037 - DEBUG - Drive type: 2
+2024-12-21 16:23:16,037 - INFO - USB drive detected: D:\
+2024-12-21 16:23:16,042 - INFO - Rickroll process started successfully with PID: 4048
+2024-12-21 16:23:16,044 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:23:17,060 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:23:17,062 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:23:18,073 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:23:18,198 - DEBUG - Device arrival detected
+2024-12-21 16:23:18,198 - DEBUG - Volume device detected
+2024-12-21 16:23:18,198 - DEBUG - Checking drive type for D:\
+2024-12-21 16:23:18,198 - DEBUG - Drive type: 2
+2024-12-21 16:23:18,198 - INFO - USB drive detected: D:\
+2024-12-21 16:23:18,202 - INFO - Rickroll process started successfully with PID: 5944
+2024-12-21 16:23:18,204 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:23:19,216 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:23:19,218 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:23:20,227 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:23:20,396 - DEBUG - Device arrival detected
+2024-12-21 16:23:20,396 - DEBUG - Volume device detected
+2024-12-21 16:23:20,396 - DEBUG - Checking drive type for D:\
+2024-12-21 16:23:20,396 - DEBUG - Drive type: 2
+2024-12-21 16:23:20,396 - INFO - USB drive detected: D:\
+2024-12-21 16:23:20,401 - INFO - Rickroll process started successfully with PID: 9572
+2024-12-21 16:23:20,403 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:23:21,432 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:23:21,434 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-12-21 16:23:22,448 - DEBUG - http://localhost:8000 "POST /usb-detected HTTP/11" 200 26
+2024-12-21 16:23:22,603 - DEBUG - Device arrival detected
+2024-12-21 16:23:22,603 - DEBUG - Volume device detected
+2024-12-21 16:23:22,603 - DEBUG - Checking drive type for D:\
+2024-12-21 16:23:22,604 - DEBUG - Drive type: 2
+2024-12-21 16:23:22,604 - INFO - USB drive detected: D:\
+2024-12-21 16:23:22,604 - INFO - Skipping launch due to cooldown
+2024-12-21 16:23:22,777 - DEBUG - Device arrival detected
+2024-12-21 16:23:22,777 - DEBUG - Volume device detected
+2024-12-21 16:23:22,777 - DEBUG - Checking drive type for D:\
+2024-12-21 16:23:22,777 - DEBUG - Drive type: 2
+2024-12-21 16:23:22,777 - INFO - USB drive detected: D:\
+2024-12-21 16:23:22,777 - INFO - Skipping launch due to cooldown
+2024-12-21 16:23:22,978 - DEBUG - Device arrival detected
+2024-12-21 16:23:22,978 - DEBUG - Volume device detected
+2024-12-21 16:23:22,978 - DEBUG - Checking drive type for D:\
+2024-12-21 16:23:22,979 - DEBUG - Drive type: 2
+2024-12-21 16:23:22,979 - INFO - USB drive detected: D:\
+2024-12-21 16:23:22,979 - ERROR - Error launching rickroll.py: cannot access local variable 'process' where it is not associated with a value

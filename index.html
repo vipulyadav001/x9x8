@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninja Jacky Chain</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="status-indicator">
+            <div class="status-dot"></div>
+            <span class="status-text">SYSTEM OFFLINE</span>
+        </div>
+        <div class="ninja-container">
+            <div class="ninja">忍</div>
+            <div class="glow"></div>
+            <div class="scan-line"></div>
+        </div>
+        <h1>NINJA JACKY CHAIN</h1>
+        <div class="cyber-terminal">
+            <div class="terminal-header">
+                <span class="terminal-title">SYSTEM STATUS</span>
+                <div class="terminal-buttons">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div class="terminal-content">
+                <div id="terminalOutput"></div>
+            </div>
+        </div>
+        <div class="button-container">
+            <button id="activateBtn" class="cyber-button">
+                <span class="cyber-button__text">ACTIVATE SYSTEM</span>
+                <span class="cyber-button__glitch"></span>
+                <span class="cyber-button__tag">v2.0</span>
+            </button>
+        </div>
+        <div class="matrix-bg"></div>
+    </div>
+    <div class="grid-overlay"></div>
+    <script src="script.js"></script>
+</body>
+</html>
